@@ -1,0 +1,10 @@
+com\mycompany\migradataperu\servlet\DashboardServlet.class
+com\mycompany\migradataperu\resources\JavaEE8Resource.class
+com\mycompany\migradataperu\JAXRSConfiguration.class
+com\mycompany\migradataperu\conexion\ConexionBD.class
+com\mycompany\migradataperu\importador\ImportadorSolicitudMasivo.class
+com\mycompany\migradataperu\servlet\ExportarExcelServlet.class
+com\mycompany\migradataperu\dao\CambioDAO.class
+com\mycompany\migradataperu\dao\CarnetDAO.class
+com\mycompany\migradataperu\importador\ImportadorCSV.class
+com\mycompany\migradataperu\dao\SolicitudDAO.class
